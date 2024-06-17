@@ -1,4 +1,4 @@
 # frontend-projects
 This is my first Git Repository.
 <br>
-Author-Aditya kumar upadhyay
+Author-Aditya upadhyay
